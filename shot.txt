@@ -1,0 +1,13 @@
+///* @media only screen and (max-width: 400px) {
+
+    .header{
+        padding: 15px 20px;
+    }
+ }
+
+
+/// icons 
+import { BsGlobe } from 'react-icons/bs';
+
+//icons matiu
+import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';

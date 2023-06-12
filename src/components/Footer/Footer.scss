@@ -1,0 +1,20 @@
+@import '../../Assets/sass/index.scss';
+
+.footer{
+    background-color: var(--footer-bg);
+    padding: 29px 0;
+
+    .bottom{
+        display: flex;
+        align-items: center;
+        padding: 29px 0 0 0;
+        gap: 40%;
+
+        p{
+            font-weight: 400;
+            line-height: 17px;
+            font-size: 14px;
+            color: #868585;
+        }
+    }
+}
