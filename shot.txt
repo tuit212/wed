@@ -11,3 +11,12 @@ import { BsGlobe } from 'react-icons/bs';
 
 //icons matiu
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
+
+
+
+
+
+//// qolib ketadigan joylari
+
+footer ni link ni ulash joylari qoldi
+
